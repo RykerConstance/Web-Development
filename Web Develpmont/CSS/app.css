@@ -1,0 +1,23 @@
+h1 {
+	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px solid purple;
+}
+
+li{
+	color: green;
+}
+
+h4{
+	background: rgb(225,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://georgehill-timber.co.uk/media/mageplaza/blog/post/s/h/shutterstock_65163166-522x392.jpg)
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
